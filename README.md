@@ -1,4 +1,4 @@
-#                                 CyberSecurity
+#                                 Whether Application on CLI
 
-![image](https://github.com/manishjon6/CyberSecurity/assets/41133660/e881cb64-7bb1-4264-a409-0c93b67b0906)
+<img width="825" height="708" alt="image" src="https://github.com/user-attachments/assets/19c12d0f-af8a-4f6d-add5-bfbd8a9241b4" />
 
